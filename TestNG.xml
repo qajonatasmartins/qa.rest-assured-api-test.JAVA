@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="ContractSuite">
-	<test name="Contract - tangerino-report-api-test">
+	<test name="Contract - project">
 		<groups>
 			<run>
-				<include name="contract"/>
+				<include name="contract" />
 			</run>
 		</groups>
 		<packages>
-			<package name="testcases.*"/>
+			<package name="testcases.*" />
 		</packages>
 	</test>
 </suite>

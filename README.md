@@ -1,12 +1,12 @@
-# Projeto de testes automatizado da API report-service
+# Projeto de testes automatizado da API report
 
 ## Sobre o serviço
 
-O projeto do report service está localizado no repositório [report service]()
+O projeto do report service está localizado no repositório [report]()
 
 ## Sobre a API
 
-A documentação dos endpoints da API testada está no [Swagger](http://report.tangerino-staging.com.br/swagger-ui.html)
+A documentação dos endpoints da API testada está no [Swagger]()
 
 ## Frameworks e tecnologias
 
@@ -48,7 +48,7 @@ Para a suite de 'contract' é necessário que seja gerado o jsonSchema para vali
 
 No exemplo abaixo é utilizado o endpoint do serviço 'report service':
 
-**1 ª Passo:** Acesse o [endpoint](http://report.tangerino-staging.com.br/swagger-ui.html#/filter-controller/getCompaniesUsingGET) e copie o response da requisição
+**1 ª Passo:** Acesse o [endpoint]() e copie o response da requisição
 
 ```
 {
